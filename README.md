@@ -14,7 +14,7 @@ In Terminal: `nodemon server` or `node server`
 
 ### To create a message
 
-In the discord app, type the command `!b` and any message you want.
+In the discord app, type the command `!b` and any message you want
 
 ### Caveats
 
