@@ -26,3 +26,4 @@ In the discord app, type the command `!b` and any message you want
 ![Example Msg 2](imgs/ex-img-2.png)
 * Adding any characters that are not alphanumeric will result in the bot not creating the message *
 * There are no regional indicators for punctuation or special characters
+*
